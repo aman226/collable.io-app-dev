@@ -1,0 +1,54 @@
+{
+  "project_info": {
+    "project_number": "820012518920",
+    "project_id": "collable-1d9a3",
+    "storage_bucket": "collable-1d9a3.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:820012518920:android:be15ab450ee080bd260bbd",
+        "android_client_info": {
+          "package_name": "io.collable.app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "820012518920-266f6pckcb3cjc4bn71hjn4ihnqurtif.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "io.collable.app",
+            "certificate_hash": "9bbb3186b2189ef16d8f272bdab59362c395cbb4"
+          }
+        },
+        {
+          "client_id": "820012518920-t00rp741tohtlq4p99fv7b5h33gn8rpo.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCceHZA2HdtsG2bk1XGYwwSDssk94WWZ9Q"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "820012518920-t00rp741tohtlq4p99fv7b5h33gn8rpo.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "820012518920-rfnk82hofrsruq4hpfklov0af018s2qc.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "io.collable.app"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
